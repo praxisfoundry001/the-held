@@ -58,6 +58,4 @@ Readers who want the deeper framework can continue into Praxis Foundry’s Struc
 
 ## Citation and archive
 
-DOI: [ADD DOI AFTER ZENODO PUBLICATION]
-
-PDF available through the DOI link after publication.
+DOI: https://doi.org/10.5281/zenodo.20750652
